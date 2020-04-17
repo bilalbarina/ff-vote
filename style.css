@@ -235,3 +235,26 @@ background-color: #FF6600
 
 .resp-sharing-button--telegram:hover {
   background-color: #4B97D1;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .footer {
+
+    position: absolute;
+    bottom: 0;
+    right: 45%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
