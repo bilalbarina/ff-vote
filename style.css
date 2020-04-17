@@ -1,0 +1,48 @@
+body {
+    font-family: 'Tajawal', sans-serif;
+    background-color: whitesmoke;
+}
+.bg-light {
+    background: rgba(0, 0, 0, 0.8)!important;
+}
+
+.navbar-light .navbar-toggler {
+    color: white;
+    border-color: #ffa619;
+    background-color: #ffa619;
+}
+
+.navbar-light .navbar-toggler-icon {
+    color: white;
+}
+
+.navbar-light .navbar-nav .nav-link {
+color: white;
+}
+
+
+.container-fluid {
+    padding-top: 5rem;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 5rem;
+}
+
+.alert {
+    width: 80%;
+}
+
+.card {
+    padding: 0 0 0 0;
+}
+
+.card .btn {
+    display: flex;
+    justify-self: center;
+    justify-content: center;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    border-color: #c2882a;
+    background-color: #ffa619;
+}
+
